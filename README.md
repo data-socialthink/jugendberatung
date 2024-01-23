@@ -10,4 +10,4 @@ Es werden Kennzahlen von folgenden Beratungsstellen zusammengetragen:
 - Samowar Bezirk Horgen
 - Samowar Bezirk Meilen
 
-_Solltest du weitere Beratungsstellen kennen, die Ihre Kennzahlen öffentlich zur Verfügung stellen, würde es mich freuen, wenn du dich bei mir melden würdest._
+_Solltest du weitere Beratungsstellen kennen, die Ihre Kennzahlen öffentlich zur Verfügung stellen, würde es mich freuen, wenn du dich bei [mir](https://socialthink.ch/kontakt) melden würdest._
